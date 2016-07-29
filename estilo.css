@@ -1,0 +1,24 @@
+.jumbotron
+{
+
+  background: rgba(0, 0, 0, 0.8);
+  color:#000;
+  box-shadow: 2px 2px 3px #000;
+  color:#ffc107;
+  margin-bo: 100px;
+}
+
+.div h1
+{
+padding-left:100px;
+}
+.navbar{
+  margin-bottom: 0px;
+}
+
+p{
+  text-align: justify;
+}
+h2{
+  color: #487098;
+}
